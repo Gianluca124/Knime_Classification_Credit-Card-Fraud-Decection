@@ -8,4 +8,6 @@ From an economic point of view, it is essential for financial institutions to be
 
 ### Workflow preview
 
+![](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/raw/main/Images/workflow_preview.png)
+
 #### English version of the report incoming!
